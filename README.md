@@ -10,5 +10,6 @@ R(Rotate) T(Transform), to get Homography matrix.
 
 #Simple records of rectify image.
 #You need to manually labeled more than eight points-pair.
+
 #Unzip all the files andmore details information is in .word file
  
