@@ -12,5 +12,5 @@ R(Rotate) T(Transform), to get Homography matrix.
 
 #You need to manually labeled more than eight points-pair.
 
-#Unzip all the files andmore details information is in .word file
+#Unzip all the files andmore details information is in .docx file
  
