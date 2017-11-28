@@ -8,7 +8,7 @@ product on two line function to get epipole point of two plane.
 Finally, use formula H=GST,G(Straighten the epipole line by project epipole point to infiniy)
 R(Rotate) T(Transform), to get Homography matrix.
 
-# Simple records of rectify image.
-# You need to manually labeled more than eight points-pair.
-# Unzip all the files andmore details information is in .word 
+#Simple records of rectify image.
+#You need to manually labeled more than eight points-pair.
+#Unzip all the files andmore details information is in .word 
  
